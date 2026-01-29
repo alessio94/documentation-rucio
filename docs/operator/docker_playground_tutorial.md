@@ -1,10 +1,10 @@
 ---
 id: docker_playground_tutorial
-title: Configuring S3 Storage and Multi-Hop Transfers in the Rucio Docker Playground
+title: Configuring S3 Storage and Multi-Hop Transfers in Rucio
 
 ---
 
-# Configuring S3 Storage and Multi-Hop Transfers in the Rucio Docker Playground
+# Configuring S3 Storage and Multi-Hop Transfers in Rucio
 
 
 :::info[Overview]
