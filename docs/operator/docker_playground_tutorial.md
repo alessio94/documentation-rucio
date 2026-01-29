@@ -8,6 +8,7 @@ title: Docker Playground Tutorial
 :::info[Overview]
 This tutorial walks you through setting up a complete Rucio test environment using Docker Compose. The playground includes 17 containers with XRootD servers, MinIO S3 storage, FTS (File Transfer Service), and a full Rucio stack for testing data replication and multi-hop transfers.
 :::
+
 The original scripts and a Jupyter notebook version of the tutorial is available on [CERNBox](https://cernbox.cern.ch/files/spaces/eos/user/a/alpizzin/Rucio%20Playground).
 
 
